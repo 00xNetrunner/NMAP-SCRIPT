@@ -1,4 +1,4 @@
-# nampScan.sh
+# nmap.sh
 
 ## ⚠️ Disclaimer ⚠️
 
